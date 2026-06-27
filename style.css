@@ -1,0 +1,9 @@
+/* Trendawy Theme */
+:root{
+ --primary:#111;
+ --accent:#d4af37;
+ --bg:#fff;
+}
+*{box-sizing:border-box}
+html{direction:rtl}
+body{margin:0;font-family:system-ui,sans-serif;background:var(--bg);color:#222}
